@@ -10,7 +10,7 @@ If you want to learn more about me, feel free to check out my wesbite marora.me!
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on an NBA stats and analysis tool
+- 🔭 These days I've been working on an NBA stats and analysis tool
 - 🌱 I’m currently learning more about full-stack development, iOS programming, and block-chain technology
 - 👯 I’m looking to contribute to more open-source projects
 - 📫 Connect with me on [linkedin](https://www.linkedin.com/in/manav-arora1/)
