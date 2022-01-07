@@ -15,4 +15,4 @@ ________________________________________________________________________________
 - 👯 I’m looking to collaborate on more open-source projects
 - 📫 Reach me: connect with me on linkedin or email me at manavarora506@utexas.edu
 
-[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/manavarora506/github-readme-stats)
+[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavarora506)](https://github.com/anuraghazra/github-readme-stats)
