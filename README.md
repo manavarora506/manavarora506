@@ -15,7 +15,7 @@ ________________________________________________________________________________
 - 👯 I’m looking to contribute to more open-source projects
 - 📫 Connect with me on [linkedin](https://www.linkedin.com/in/manav-arora1/)
  or email me at manavarora506@utexas.edu
-- :basketball: In my free time I love playing basketball and practicing my favorite songs on my guitar
+- In my free time I love playing 🏀 and practicing on my guitar 🎸
 
 ____________________________________________________________________________________________________________________________________________________________________
 
