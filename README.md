@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi Friends! 👋
 
-<!--
-**manavarora506/manavarora506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Manav Arora and I'm currently a junior studying Computer Engineering and Business at the University of Texas at Austin.
 
-Here are some ideas to get you started:
+This last summer I worked at Mavenir and built data analysis tools using MATLAB and also participated in Driving Forward's summer capstone program where I led my team in finding various ways Bitcoin mining companies could actively reduce their energy consumption. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will be interning at Amazon this summer as a Software Development Engineer and look forward to working on exciting projects and gaining new experiences.
+
+If you want to learn more about me, feel free to check out my wesbite marora.me!
+
+____________________________________________________________________________________________________________________________________________________________________
+
+- 🔭 I’m currently working on an NBA stats and analysis tool
+- 🌱 I’m currently learning more about full-stack development, iOS programming, and block-chain technology
+- 👯 I’m looking to collaborate on more open-source projects
+- 📫 Reach me: connect with me on linkedin or email me at manavarora506@utexas.edu
+
+[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/manavarora506/github-readme-stats)
