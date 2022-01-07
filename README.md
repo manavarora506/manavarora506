@@ -12,7 +12,11 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently working on an NBA stats and analysis tool
 - 🌱 I’m currently learning more about full-stack development, iOS programming, and block-chain technology
-- 👯 I’m looking to collaborate on more open-source projects
-- 📫 Reach me: connect with me on linkedin or email me at manavarora506@utexas.edu
+- 👯 I’m looking to contribute to more open-source projects
+- 📫 Connect with me on [linkedin](https://www.linkedin.com/in/manav-arora1/)
+ or email me at manavarora506@utexas.edu
+- :basketball: In my free time I love playing basketball and practicing my favorite songs on my guitar
+
+____________________________________________________________________________________________________________________________________________________________________
 
 [![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavarora506)](https://github.com/anuraghazra/github-readme-stats)
