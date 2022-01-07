@@ -6,7 +6,7 @@ This last summer I worked at Mavenir and built data analysis tools using MATLAB 
 
 I will be interning at Amazon this summer as a Software Development Engineer and look forward to working on exciting projects and gaining new experiences.
 
-If you want to learn more about me, feel free to check out my wesbite marora.me!
+If you want to learn more about me, please visit [my website](https://www.marora.me)
 
 ____________________________________________________________________________________________________________________________________________________________________
 
