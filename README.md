@@ -2,7 +2,7 @@
 
 My name is Manav Arora and I'm currently a junior studying Computer Engineering and Business at the University of Texas at Austin.
 
-This last summer I interned at Mavenir and built efficient model to analyze Drive-Testing data using MATLAB. I also participated in Driving Forward's summer capstone program where I led my team in finding various ways Bitcoin mining companies could actively reduce their energy consumption. 
+This last summer I interned at Mavenir and built efficient models to analyze Drive-Testing data using MATLAB. I also participated in Driving Forward's summer capstone program where I led my team in finding various ways Bitcoin mining companies could actively reduce their energy consumption. 
 
 I will be interning at Amazon this summer as a Software Development Engineer and look forward to working on exciting projects and gaining new experiences.
 
