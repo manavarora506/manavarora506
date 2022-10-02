@@ -1,10 +1,8 @@
 ### Hi Friends! 👋
 
-My name is Manav Arora and I'm currently a junior studying Computer Engineering and Business at the University of Texas at Austin.
+My name is Manav Arora and I'm currently a senior studying Computer Engineering and Business at the University of Texas at Austin.
 
-This last summer I interned at Mavenir and built efficient models to analyze Drive-Testing data using MATLAB. I also participated in Driving Forward's summer capstone program where I led my team in finding various ways Bitcoin mining companies could actively reduce their energy consumption. 
-
-I will be interning at Amazon this summer as a Software Development Engineer and look forward to working on exciting projects and gaining new experiences.
+This last summer I interned at Amazon for the Homepage CX team where I built clickable, color-friendly color-swatches to display different color options for a particular product. 
 
 If you want to learn more about me, please visit [my website](https://www.marora.me)
 
