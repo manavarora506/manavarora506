@@ -17,4 +17,4 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavarora506)](https://github.com/anuraghazra/github-readme-stats)
+[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavarora506)](https://github.com/manavarora506/github-readme-stats)
